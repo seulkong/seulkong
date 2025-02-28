@@ -10,8 +10,8 @@
 ### Current Studying 🍀
 
 ![python](https://img.shields.io/badge/Python-FFCBCB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/MySQL-FF96D0?style=for-the-badge&logo=mysql&logoColor=black" /> 
+<img src="https://img.shields.io/badge/MySQL-FF96D0?style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 ### I'm Here ! 🐰
 
-<a href="https://tourmaline-warbler-45b.notion.site/22d25437967245a29871c032c2d20f1f?pvs=4"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="https://tourmaline-warbler-45b.notion.site/22d25437967245a29871c032c2d20f1f?pvs=4"><img alt="Resume" src ="https://img.shields.io/badge/Resume-EAD0D6.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
